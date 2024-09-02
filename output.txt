@@ -1,0 +1,70 @@
+Week 1
+iPhoners plays Manchester United
+Foo Fighters plays Liverpool
+Giants plays Staples
+Cosmos plays Attackers
+Red Bull plays iPhoners
+
+Week 2
+Manchester United plays Foo Fighters
+Liverpool plays Giants
+Staples plays Westhill
+Attackers plays Red Bull
+iPhoners plays Manchester United
+
+Week 3
+Foo Fighters plays Liverpool
+Giants plays Staples
+Cosmos plays Attackers
+Red Bull plays iPhoners
+Manchester United plays Foo Fighters
+
+Week 4
+Liverpool plays Giants
+Staples plays Westhill
+Attackers plays Red Bull
+iPhoners plays Manchester United
+Foo Fighters plays Liverpool
+
+Week 5
+Giants plays Staples
+Cosmos plays Attackers
+Red Bull plays iPhoners
+Manchester United plays Foo Fighters
+Liverpool plays Giants
+
+Week 6
+Staples plays Westhill
+Attackers plays Red Bull
+iPhoners plays Manchester United
+Foo Fighters plays Liverpool
+Giants plays Staples
+
+Week 7
+Cosmos plays Attackers
+Red Bull plays iPhoners
+Manchester United plays Foo Fighters
+Liverpool plays Giants
+Staples plays Westhill
+
+Week 8
+Attackers plays Red Bull
+iPhoners plays Manchester United
+Foo Fighters plays Liverpool
+Giants plays Staples
+Cosmos plays Attackers
+
+Week 9
+Red Bull plays iPhoners
+Manchester United plays Foo Fighters
+Liverpool plays Giants
+Staples plays Westhill
+Attackers plays Red Bull
+
+Week 10
+iPhoners plays Manchester United
+Foo Fighters plays Liverpool
+Giants plays Staples
+Cosmos plays Attackers
+Red Bull plays iPhoners
+
